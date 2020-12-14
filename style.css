@@ -1,3 +1,4 @@
+
 p {
     font-family: Arial;
     color: blueviolet;
@@ -5,6 +6,7 @@ p {
 
 h1 {
     color: maroon;
+    font-family: 'VG5000';
     font-size: 50px;
     text-align: center;
 }
