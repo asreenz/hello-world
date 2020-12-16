@@ -63,17 +63,20 @@ body {
     display: inline;
   }
   
-  .header li {
-    display: inline-block;
-  }
- #top ul{
-       position: left;
+ul {
+  margin: 30px auto;
+  padding: 0 20px;
+  text-align: center;
 }
- #magazine ul{
-       position: center;
-}
- #about ul{
-       position: right;
+
+li {
+  color: #FFF;
+  font-family: serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 80px;
 }
   
   .header a {
