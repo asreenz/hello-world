@@ -60,6 +60,12 @@ body {
   padding: 0;
 }
 
+#home {
+    float: left;
+}
+
+    
+
 .nav li {
   display: inline-block;
   font-size: 20px;
