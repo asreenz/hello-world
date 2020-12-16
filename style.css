@@ -65,18 +65,15 @@ body {
   .header li {
     display: inline-block;
   }
-
-  .header li #top {
-      float: left;
-  }
-
-  .header li #magazine {
-      float: center;
-  }
-
-  .header li #about {
-      float: right;
-  }
+   div#top ul{
+       display: inline;
+}
+ div#magazine ul{
+       display: inline;
+}
+ div#about ul{
+       display: inline;
+}
   
   .header a {
     display: block;
