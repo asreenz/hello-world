@@ -1,10 +1,13 @@
 head {
     font-family: serif;
-    text-align: center;
+    position: relative;
+    left: 50px;
 }
 p {
     color: blueviolet;
     text-align: center;
+    position: relative;
+    left: 50px;
 }
 
 
