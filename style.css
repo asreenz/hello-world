@@ -68,15 +68,15 @@ body {
   }
 
   .header li #top {
-      position: left;
+      float: left;
   }
 
   .header li #magazine {
-      position: center;
+      float: center;
   }
 
   .header li #about {
-      position: right;
+      float: right;
   }
   
   .header a {
