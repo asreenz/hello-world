@@ -66,15 +66,15 @@ body {
     display: inline-block;
   }
 
-  #top {
+  .top {
       position: left;
   }
   
-  #magazine {
+  .magazine {
       position: center;
   }
 
-  #about {
+  .about {
       position: right;
   }
   
