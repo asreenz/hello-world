@@ -43,6 +43,8 @@ body {
 
 #sakhiftab {
     float: left;
+    position: fixed;
+    color: transparent;
 }
 
   a.home {
