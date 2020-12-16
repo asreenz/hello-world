@@ -1,3 +1,10 @@
+header {
+   background-color: rgb(230, 140, 23); 
+   border-bottom: 1px solid #e40303;
+   position: fixed;
+   width: 100%;
+   z-index: 10;
+}
 p {
     color: blueviolet;
 }
