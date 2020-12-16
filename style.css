@@ -49,3 +49,11 @@ img {
 #about {
     font-size: 15px;
 }
+
+.sakhif {
+    text-align: center;
+    width: 100%;
+    position: relative;
+    top: 50px;
+
+}
