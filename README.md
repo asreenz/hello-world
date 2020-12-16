@@ -1,5 +1,3 @@
-# hello-world
-just another repository
+# sakhif website
+ repository for my zine called sakhif
 
-Hello
-I am a freelance website designer and gay
