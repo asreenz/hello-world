@@ -65,13 +65,13 @@ body {
   .header li {
     display: inline-block;
   }
-   div#top ul{
+ #top ul{
        display: inline;
 }
- div#magazine ul{
+ #magazine ul{
        display: inline;
 }
- div#about ul{
+ #about ul{
        display: inline;
 }
   
