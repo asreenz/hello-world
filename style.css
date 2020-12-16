@@ -4,6 +4,7 @@ head {
 }
 p {
     color: blueviolet;
+    text-align: center;
 }
 
 
@@ -23,6 +24,7 @@ h2 {
 body {
     background-color: #FFFFFF;
     margin: 0 auto;
+    text-align: center;
 }
 
 
