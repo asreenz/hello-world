@@ -66,15 +66,15 @@ body {
     display: inline-block;
   }
 
-  .top {
+  .header li #top {
       position: left;
   }
-  
-  .magazine {
+
+  .header li #magazine {
       position: center;
   }
 
-  .about {
+  .header li #about {
       position: right;
   }
   
@@ -87,4 +87,3 @@ body {
   a.home {
     color: #ff5e00;
   }
-  
