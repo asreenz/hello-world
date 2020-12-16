@@ -31,6 +31,7 @@ body {
     background-color: #FFFFFF;
 }
 
+
 .center {
     display: block;
     margin-left: auto;
@@ -50,6 +51,7 @@ body {
 }
 
 /* Header */
+
 .header {
     font-family: serif;
     font-size: 14px;
@@ -59,25 +61,24 @@ body {
     top: 0;
     width: 100%;
     font-weight: 900;
-    display: inline;
   }
   
   .header li {
     display: inline-block;
   }
- #top ul{
-       float: left;
-       position: left;
-}
- #magazine ul{
-       float: center;
-       position: center;
-}
- #about ul{
-       float: right;
-       position: right;
-}
 
+  .header li #top {
+      position: left;
+  }
+
+  .header li #magazine {
+      position: center;
+  }
+
+  .header li #about {
+      position: right;
+  }
+  
   .header a {
     display: block;
     color: #000000;
@@ -87,3 +88,4 @@ body {
   a.home {
     color: #ff5e00;
   }
+  
