@@ -61,7 +61,7 @@ img {
     font-family: serif;
     font-size: 14px;
     line-height: 1.25;
-    background-color: rgb(0, 0, 0);
+    background-color: transparent;
     position: fixed;
     top: 0;
     width: 100%;
@@ -74,10 +74,10 @@ img {
   
   .header a {
     display: block;
-    color: #4A4A4A;
+    color: #000000;
     padding: 30px 20px;
   }
   
   a.home {
-    color: #4D00FF;
+    color: #ff5e00;
   }
