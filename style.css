@@ -51,6 +51,14 @@ body {
    
 }
 
+#magazine {
+    position: fixed;
+    color: transparent;
+    font-size: 15px;
+    text-align: center;
+   
+}
+
   a.home {
     color: #ff5e00;
   }
