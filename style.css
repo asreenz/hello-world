@@ -65,6 +65,18 @@ body {
   .header li {
     display: inline-block;
   }
+
+  #top {
+      position: left;
+  }
+  
+  #magazine {
+      position: center;
+  }
+
+  #about {
+      position: right;
+  }
   
   .header a {
     display: block;
@@ -75,3 +87,4 @@ body {
   a.home {
     color: #ff5e00;
   }
+  
