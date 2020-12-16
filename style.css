@@ -60,19 +60,20 @@ body {
     top: 0;
     width: 100%;
     font-weight: 900;
+    display: inline;
   }
   
   .header li {
     display: inline-block;
   }
  #top ul{
-       display: inline;
+       float: left;
 }
  #magazine ul{
-       display: inline;
+       float: center;
 }
  #about ul{
-       display: inline;
+       float: right;
 }
   
   .header a {
