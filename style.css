@@ -52,32 +52,18 @@ body {
 
 /* Header */
 
-.header {
-    font-family: serif;
-    font-size: 14px;
-    line-height: 1.25;
-    background-color: transparent;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    font-weight: 900;
-  }
-  
-  .header li {
-    display: inline-block;
-  }
+.nav {
+  background-color: transparent; 
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
 
-  .header li #top {
-      float: left;
-  }
-
-  .header li #magazine {
-      float: center;
-  }
-
-  .header li #about {
-      float: right;
-  }
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
   
   .header a {
     display: block;
