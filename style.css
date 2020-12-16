@@ -1,4 +1,4 @@
-head {
+hhead {
     font-family: serif;
 }
 p {
@@ -52,27 +52,32 @@ body {
 
 /* Header */
 
-.nav {
-  background-color: transparent; 
-  list-style-type: none;
-  text-align: center;
-  margin: 0;
-  padding: 0;
-}
+.header {
+    font-family: serif;
+    font-size: 14px;
+    line-height: 1.25;
+    background-color: transparent;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-weight: 900;
+  }
+  
+  .header li {
+    display: inline-block;
+  }
 
-#home {
-    float: left;
-}
+  .header li #top {
+      float: left;
+  }
 
-    
+  .header li #magazine {
+      float: center;
+  }
 
-.nav li {
-  display: inline-block;
-  font-size: 20px;
-  padding: 20px;
-  margin: 0;
-  padding: 0;
-}
+  .header li #about {
+      float: right;
+  }
   
   .header a {
     display: block;
@@ -83,4 +88,5 @@ body {
   a.home {
     color: #ff5e00;
   }
+  
   
