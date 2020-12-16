@@ -1,6 +1,5 @@
 head {
     font-family: serif;
-    line-height: 10px;
 }
 p {
     color: blueviolet;
@@ -13,7 +12,7 @@ h1 {
     font-family: serif;
     font-size: 50px;
     text-align: center;
-    bottom: 100px;
+    bottom: 10px;
 
 }
 h2 {
