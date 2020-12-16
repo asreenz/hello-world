@@ -40,7 +40,11 @@ body {
     bottom: 10px;
 
 }
-  
+
+#sakhiftab {
+    float: left;
+}
+
   a.home {
     color: #ff5e00;
   }
