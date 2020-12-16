@@ -43,7 +43,6 @@ body {
 }
 
 #sakhiftab {
-    float: left;
     position: fixed;
     color: transparent;
     font-size: 15px;
