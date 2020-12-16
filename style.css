@@ -31,12 +31,6 @@ body {
     background-color: #FFFFFF;
 }
 
-img {
-    max-height: 200px;
-    max-width: 300px;
-    position: relative;
-}
-
 .center {
     display: block;
     margin-left: auto;
