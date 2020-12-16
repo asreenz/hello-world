@@ -50,7 +50,6 @@ body {
 }
 
 /* Header */
-
 .header {
     font-family: serif;
     font-size: 14px;
@@ -63,22 +62,22 @@ body {
     display: inline;
   }
   
-ul {
-  margin: 30px auto;
-  padding: 0 20px;
-  text-align: center;
+  .header li {
+    display: inline-block;
+  }
+ #top ul{
+       float: left;
+       position: left;
+}
+ #magazine ul{
+       float: center;
+       position: center;
+}
+ #about ul{
+       float: right;
+       position: right;
 }
 
-li {
-  color: #FFF;
-  font-family: serif;
-  font-size: 16px;
-  font-weight: 300;
-  text-transform: uppercase;
-  display: inline-block;
-  width: 80px;
-}
-  
   .header a {
     display: block;
     color: #000000;
