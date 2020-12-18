@@ -1,13 +1,11 @@
 head {
     font-family: serif;
-    position: relative;
-    left: 80px;
+    
 }
 p {
     color: blueviolet;
     text-align: center;
-    position: relative;
-    left: 80px;
+    
 }
 
 
@@ -16,8 +14,7 @@ h1 {
     color: rgb(75, 4, 0);
     font-family: serif;
     font-size: 50px;
-    text-align: center;
-    bottom: 10px;
+   
 
 }
 h2 {
@@ -44,9 +41,7 @@ body {
 #sakhif {
     text-align: center;
     width: 100%;
-    position: relative;
-    bottom: 10px;
-    left: 50px;
+    
 
 }
 
@@ -54,7 +49,7 @@ body {
     position: fixed;
     color: transparent;
     font-size: 15px;
-    text-align: left;
+   
    
 }
 
@@ -62,7 +57,7 @@ body {
     position: fixed;
     color: transparent;
     font-size: 15px;
-    text-align: center;
+  
    
 }
 
